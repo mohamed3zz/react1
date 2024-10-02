@@ -1,0 +1,13 @@
+.navbar_menu {
+
+    border-bottom: solid 1px rgba(255, 255, 255, 0.6);
+    padding-bottom: .7em;
+    & ul {
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2em;
+    }
+}
+    
